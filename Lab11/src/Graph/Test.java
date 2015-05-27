@@ -69,5 +69,7 @@ public class Test {
         System.out.println();
         System.out.println("Ca³a lista sasiedztwa:");
         neighbour.print();
+
+        System.out.println("Koniec");
     }
 }
